@@ -1,22 +1,15 @@
 [
     {
-        "name": "Shreejoy Dash",
-        "telegram": 610434395,
-        "email": "pshreejoy15@gmail.com",
-        "code": "SD",
-        "admin": true
+        "name": "Kaushik Lakhani",
+        "telegram": 1201153697,
+        "email": "kaushik.lakhani123@gmail.com",
+        "code": "KL"
     },
     {
-        "name": "Suman More",
-        "telegram": 923267528,
-        "email": "sumanmore322@gmail.com",
-        "code": "SM"
-    },
-    {
-        "name": "Prerna Babber",
-        "telegram": 915195944,
-        "email": "prernababber@gmail.com",
-        "code": "PB"
+        "name": "Nayaneeka Mahapatra",
+        "telegram": 1453223647,
+        "email": "mahapatranayaneeka@gmail.com",
+        "code": "NM"
     },
     {
         "name": "Anjali Singh Rajput",
@@ -31,22 +24,16 @@
         "code": "OM"
     },
     {
-        "name": "Siddhant Swarup Mallick",
-        "telegram": 1326857904,
-        "email": "siddhantswarupmallick@gmail.com",
-        "code": "SS"
+        "name": "Ritik Giri",
+        "telegram": 1553090698,
+        "email": "ritikgiri214@gmail.com",
+        "code": "RG"
     },
     {
         "name": "Sambit Raj",
         "telegram": 1363651124,
         "email": "sambit.raj2001@gmail.com",
         "code": "SR"
-    },
-    {
-        "name": "Krishna Mahato",
-        "telegram": 1370524100,
-        "email": "krishhtrishh9304@gmail.com",
-        "code": "KM"
     },
     {
         "name": "Manisha Paricha",
@@ -59,5 +46,12 @@
         "telegram": 1328765288,
         "email": "akash250799@gmail.com",
         "code": "AR"
+    },
+    {
+        "name": "Shreejoy Dash",
+        "telegram": 610434395,
+        "email": "pshreejoy15@gmail.com",
+        "code": "SD",
+        "admin": true
     }
 ]
